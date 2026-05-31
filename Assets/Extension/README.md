@@ -7,7 +7,7 @@ Reusable runtime extensions for Unity projects.
 Install this package from Unity Package Manager with a Git URL that points to the package path:
 
 ```text
-<repository-url>.git?path=Assets/Extension
+https://github.com/Manhddm/Extension_Unity.git?path=Assets/Extension
 ```
 
 ## Usage
