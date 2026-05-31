@@ -1,0 +1,19 @@
+{
+  "name": "com.manhddm.extension",
+  "version": "1.0.0",
+  "displayName": "Extension",
+  "description": "Extension for project unity",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  },
+  "keywords": [
+    "extension",
+    "utility",
+    "helper",
+    "ManhDucDong"
+  ],
+  "author": {
+    "name": "ManhDucDong",
+    "email": "manhducdongyb@gmail.com"
+  }
+}
