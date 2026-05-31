@@ -5,7 +5,7 @@ Thank you for considering a contribution.
 ## Development Setup
 
 1. Clone the repository.
-2. Open the project with Unity 6000.4 or newer.
+2. Open the project with Unity.
 3. Let Unity restore packages from `Packages/manifest.json`.
 4. Make focused changes under `Assets/Extension`.
 

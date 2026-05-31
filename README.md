@@ -9,7 +9,7 @@ Small Unity extension package with reusable helpers for gameplay and project cod
 
 ## Requirements
 
-- Unity 6000.4 or newer.
+- A Unity project that supports Unity Package Manager packages.
 - [UniTask](https://github.com/Cysharp/UniTask), installed automatically through the package dependency.
 
 ## Installation
